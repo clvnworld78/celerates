@@ -1,0 +1,16 @@
+{
+  "name": "celerates",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Calvin",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node-cache": "^5.1.2"
+  }
+}
